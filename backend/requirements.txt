@@ -1,0 +1,6 @@
+Flask==2.0.2
+Pillow==8.3.2
+bing-image-downloader==1.1.1
+SpeechRecognition==3.8.1
+Werkzeug==2.0.1
+Flask-Cors==4.0.0
