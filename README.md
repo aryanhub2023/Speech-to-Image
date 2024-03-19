@@ -46,7 +46,7 @@ Install Node.js from [Node.js Downloads](https://nodejs.org/en/download/package-
 ## 2. Navigate to the Frontend Directory
 
 ```bash
-cd my-ui
+cd frontend/my-ui
 ```
 
 ## 3. Install Dependencies
@@ -80,6 +80,8 @@ ngrok http PORT_NUMBER
 ```
 
 This will provide you with a publicly accessible URL for your frontend application.
+
 ```
 
 Feel free to copy and paste this content into your README.md file. Let me know if you need further assistance!
+```
