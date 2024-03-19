@@ -82,6 +82,4 @@ ngrok http PORT_NUMBER
 This will provide you with a publicly accessible URL for your frontend application.
 
 ```
-
-Feel free to copy and paste this content into your README.md file. Let me know if you need further assistance!
 ```
