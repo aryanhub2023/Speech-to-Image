@@ -80,6 +80,3 @@ ngrok http PORT_NUMBER
 ```
 
 This will provide you with a publicly accessible URL for your frontend application.
-
-```
-```
