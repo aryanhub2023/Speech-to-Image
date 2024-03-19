@@ -1,6 +1,5 @@
 Certainly! Here's the complete content for your README.md file:
 
-```markdown
 # Backend Setup
 
 ## 1. Install Docker and Docker Compose
