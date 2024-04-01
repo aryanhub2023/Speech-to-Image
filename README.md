@@ -46,7 +46,7 @@ Install Node.js from [Node.js Downloads](https://nodejs.org/en/download/package-
 ## 2. Navigate to the Frontend Directory
 
 ```bash
-cd frontend/my-ui
+
 ```
 
 ## 3. Install Dependencies

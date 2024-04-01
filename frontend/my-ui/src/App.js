@@ -73,7 +73,7 @@ const App = () => {
 
   return (
     <div className="container py-5">
-      <h2 className="text-center mb-4">Speech to Text Converter</h2>
+      <h2 className="text-center mb-4">Voice-Over Image Generator</h2>
       <p className="text-center mb-4">
         A React hook that converts speech from the microphone to text and makes
         it available to your React components.

@@ -17,7 +17,7 @@ def cleanup_all_images():
     if os.path.exists(all_images_dir):
         shutil.rmtree(all_images_dir)
 
-
+# api
 @app.route('/')
 def home():
     return "hello"
